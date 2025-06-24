@@ -1,3 +1,15 @@
+Question:
+1. Prgm to calculate total electricity bill
+
+for the 1st 50 units: Rs 0.5/Unit
+for the next 100 units: Rs 0.75/Unit
+for the next 100 units: Rs 1.2/Unit
+for units above 250 units: Rs 1.5/Unit
+
+add a subcharge of 20% to final bill
+
+Solution:
+
 package java_YM;
 import java.util.Scanner;
 
