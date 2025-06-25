@@ -20,8 +20,8 @@ public class Array1 {
 			if(arr[i]<min)
 				min = arr[i];
 		}
-		System.out.println("Maximum Element is: "+max);
-		System.out.println("Minimum Element is: "+min);
+		System.out.println("Largest Element is: "+max);
+		System.out.println("Smallest Element is: "+min);
 		sc.close();
 		
 	}
